@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0289ab8d-c939-4f95-ab18-edb6205f1930" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DoublyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    <list default="true" id="0289ab8d-c939-4f95-ab18-edb6205f1930" name="Changes" comment="Add Insert method to DoublyLinkedList">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DoublyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/DoublyLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +67,63 @@
       <option name="presentableId" value="Default" />
       <updated>1740600517565</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add Constructor to DoublyLinkedList">
+      <created>1740601865278</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740601865278</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add Append method to DoublyLinkedList">
+      <created>1740645654621</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740645654621</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add RemoveLast method to DoublyLinkedList">
+      <created>1740729337784</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740729337784</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add Prepend method to DoublyLinkedList">
+      <created>1740730466013</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1740730466013</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add Remove method to DoublyLinkedList">
+      <created>1740731407027</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1740731407027</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add Get method to DoublyLinkedList">
+      <created>1740733854733</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1740733854733</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add Set method to DoublyLinkedList">
+      <created>1740938540785</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1740938540785</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add Insert method to DoublyLinkedList">
+      <created>1740939321626</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1740939321626</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,5 +136,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add Constructor to DoublyLinkedList" />
+    <MESSAGE value="Add Append method to DoublyLinkedList" />
+    <MESSAGE value="Add RemoveLast method to DoublyLinkedList" />
+    <MESSAGE value="Add Prepend method to DoublyLinkedList" />
+    <MESSAGE value="Add Remove method to DoublyLinkedList" />
+    <MESSAGE value="Add Get method to DoublyLinkedList" />
+    <MESSAGE value="Add Set method to DoublyLinkedList" />
+    <MESSAGE value="Add Insert method to DoublyLinkedList" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Insert method to DoublyLinkedList" />
   </component>
 </project>
